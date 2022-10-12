@@ -343,6 +343,7 @@ input:where([type="text"], [type="email"], ) {
   border: 0;
   padding: var(--size-300) var(--size-500);
   /* width: min(100%, 14rem); */
+  /* width: ; */
 }
 
 @media (min-width: 47em) {
