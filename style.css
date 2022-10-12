@@ -342,7 +342,7 @@ input:where([type="text"], [type="email"], ) {
   border-radius: 100vw;
   border: 0;
   padding: var(--size-300) var(--size-500);
-  width: max(100%, 14rem);
+  /* width: min(100%, 14rem); */
 }
 
 @media (min-width: 47em) {
